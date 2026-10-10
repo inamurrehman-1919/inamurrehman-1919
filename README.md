@@ -4,7 +4,7 @@
 
 <br>
 
-# Inam Ur Rehman
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Inam+Ur+Rehman!;I'm+a+Python+Developer...;I'm+also+Machine+Learning+Engineer)](https://git.io/typing-svg)
 
 **Turning loose ideas into clean, working code.**
 
