@@ -40,7 +40,7 @@ Python, Git, and GitHub are where I focus.
   <tr>
     <td width="64" align="center"><code>01</code></td>
     <td>
-      <a href="https://github.com/inamurrehman-1919/PROJECT_ONE_REPO"><b>Project One</b></a><br>
+      <a href="https://github.com/inamurrehman-1919/smart_todo_app"><b>Project One</b></a><br>
       <sub>One concise sentence describing what this project does and why it exists.</sub>
     </td>
   </tr>
