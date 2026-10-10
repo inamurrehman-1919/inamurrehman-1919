@@ -40,8 +40,8 @@ Python, Git, and GitHub are where I focus.
   <tr>
     <td width="64" align="center"><code>01</code></td>
     <td>
-      <a href="https://github.com/inamurrehman-1919/smart_todo_app"><b>Project One</b></a><br>
-      <sub>One concise sentence describing what this project does and why it exists.</sub>
+      <a href="https://github.com/inamurrehman-1919/smart_todo_app"><b>Smart To-Do App for Business Owners</b></a><br>
+      <sub>A smart and user-friendly task management app designed to help business owners organize tasks, prioritize work, and boost productivity efficiently.</sub>
     </td>
   </tr>
   <tr>
