@@ -2,7 +2,7 @@
 
 <img src="./header.svg" alt="IUR. Developer profile banner for Inam Ur Rehman" width="100%">
 
-<br><br>
+<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&pause=1000&color=1C1C1C&background=EAEAEA&center=true&vCenter=true&width=435&lines=Hey!+It's+Inam+Ur+Rehman.;I+am+a+C%2B%2B+%26+Python+Enthusiast.;I+am+also+a+Graphic+Designer.)](https://git.io/typing-svg)
 
