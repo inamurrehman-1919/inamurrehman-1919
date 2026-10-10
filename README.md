@@ -8,8 +8,6 @@
 
 **Turning loose ideas into clean, working code.**
 
-<br>
-
 Programming, software development, and creative problem-solving.<br>
 Python, Git, and GitHub are where I focus.
 
