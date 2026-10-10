@@ -18,7 +18,7 @@ Python, Git, and GitHub are where I focus.
 <!-- <br> -->
 <img src="https://skillicons.dev/icons?i=python,git,github&theme=dark" alt="Python, Git, GitHub" height="48">
 
-<br>
+<br><br>
 
 `02 — DASHBOARD`
 <table>
