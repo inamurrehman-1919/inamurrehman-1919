@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+  <title id="t">Inam Ur Rehman</title>
+  <desc id="d">Minimal dark banner with the monogram IUR, a code-bracket motif and a single red accent.</desc>
+
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 L 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" fill="#0a0a0b"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+
+  <!-- Label + red accent bar -->
+  <rect x="80" y="52" width="32" height="3" fill="#e5383b"/>
+  <text x="80" y="88" fill="#8a8a8e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="4">DEVELOPER PROFILE</text>
+
+  <!-- Monogram -->
+  <text x="76" y="210" fill="#f5f5f5" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="140" font-weight="800" letter-spacing="-4">IUR<tspan fill="#e5383b">.</tspan></text>
+
+  <!-- Baseline rule + caption -->
+  <line x1="80" y1="240" x2="1120" y2="240" stroke="#ffffff" stroke-opacity="0.12" stroke-width="1"/>
+  <text x="80" y="266" fill="#f5f5f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">Inam Ur Rehman<tspan fill="#8a8a8e">  /  Python  &#183;  Git  &#183;  GitHub</tspan></text>
+
+  <!-- Geometric motif -->
+  <circle cx="960" cy="125" r="100" fill="none" stroke="#ffffff" stroke-opacity="0.10" stroke-width="1"/>
+  <circle cx="960" cy="125" r="64" fill="none" stroke="#ffffff" stroke-opacity="0.07" stroke-width="1"/>
+  <path d="M 925 95 L 890 125 L 925 155" fill="none" stroke="#f5f5f5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 995 95 L 1030 125 L 995 155" fill="none" stroke="#f5f5f5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 972 88 L 948 162" fill="none" stroke="#e5383b" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Corner tick -->
+  <path d="M 1088 40 H 1120 V 72" fill="none" stroke="#ffffff" stroke-opacity="0.25" stroke-width="1"/>
+</svg>
