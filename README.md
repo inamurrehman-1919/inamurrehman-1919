@@ -16,7 +16,7 @@ Python, Git, and GitHub are where I focus.
 `01 — STACK`
 
 <!-- <br> -->
-<img src="https://skillicons.dev/icons?i=cpp,Python,html,css,Git,GitHub,replit,anaconda,arduino,figma,ai,ps&theme=dark" alt="cpp, Python, html, css,  Git, GitHub, replit, anaconda, arduino, figma, ai, ps" height="48">
+<img src="https://skillicons.dev/icons?i=cpp,py,html,css,git,gitHub,replit,anaconda,arduino,figma,ai,ps&theme=dark" alt="cpp, Python, html, css,  Git, GitHub, replit, anaconda, arduino, figma, ai, ps" height="48">
 
 <br><br>
 
